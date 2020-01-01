@@ -1,6 +1,9 @@
 https://github.com/vkumar1928/vivs.git
 
-vkumar1928/l0vefor@!!
+
+https://www.youtube.com/watch?v=J_Clau1bYco -->> GitHub Tutorial
+
+
 
      cd Git/
      ls
