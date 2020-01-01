@@ -1,0 +1,20 @@
+https://github.com/vkumar1928/vivs.git
+
+vkumar1928/l0vefor@!!
+
+     cd Git/
+     ls
+     git config --global user.name "vkumar1928"
+     git config --global user.email vivek.1928srivastava@gmail.com
+     git clone https://github.com/vkumar1928/vivs.git
+     ls
+     cd vivs/
+     ls
+     touch test.txt
+     vi test.txt
+     ls
+     ls
+     git add test.txt
+     git status
+     git commit -m "first commit" test.txt
+     git push -u origin master
